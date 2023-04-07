@@ -1,7 +1,6 @@
 .SURFFIXES : .cpp .o
 CXX = g++
-
-CPPFLAGS = -g
+CFLAGS=-Wall -Werror -g
 
 HEDRS = LinkedList.h Stack.h
 SRCS = main.cpp

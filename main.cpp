@@ -2,7 +2,7 @@
 #include <string>
 #include "LinkedList.h"
 #include "Stack.h"
-
+//note
 void prnMenu()
 {
 	cout << "*******************************************" << endl;
