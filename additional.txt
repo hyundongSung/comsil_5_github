@@ -1,2 +1,5 @@
 additional file
+
 [branch_1] this is a change made in branch_1
+[branch_2] this is a change made in branch_2
+
